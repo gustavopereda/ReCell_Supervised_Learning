@@ -1,4 +1,4 @@
-# # ReCell – Used Phone Price Prediction 
+## ReCell – Used Phone Price Prediction 
 
 ## Overview
 Built a regression model to predict the price of used smartphones and tablets based on technical specifications and condition.
